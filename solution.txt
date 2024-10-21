@@ -1,0 +1,5 @@
+可以在官网找到相应的代码，然后进行手动安装。
+相应的代码链接：
+https://pytorch.org/vision/main/_modules/torchvision/models/feature_extraction.html
+按照模板，我们创建一个feature_extraction.py文件，将上面官网中的代码复制进.py文件，然后找到库所在的目录，是在你当前的虚拟环境下，我的如下：
+D:\anaconda\Lib\site-packages\torchvision\models
